@@ -10,7 +10,7 @@ Technologies : Combine PHP en POO pour la logique serveur et JavaScript pour une
 
 ### Avancement des projets 
 
-Pour l'avancement des projets on a deux types d'affichages qui permettent de visualiser la progression de nos projets. On a dans notre section "Dashboard" une visualisation en pourcentage avec une barre verte, ces deux là peuvent diminuer ou augmenter en fonction du nombre de tâches présentes sur le projet et de leurs statuts. On a aussi dans la section "Liste" le statut de nos projets où l'on peut avoir "En attente","Commencer","En cours","En pause","Finition","Terminer". Tout cela est en fonction toujours avec le statut et le nombre de tâches.
+Pour l'avancement des projets on a deux types d'affichages qui permettent de visualiser la progression de nos projets. On a dans notre section "Dashboard" une visualisation en pourcentage avec une barre verte, ces deux là peuvent diminuer ou augmenter en fonction du nombre de tâches présentes sur le projet et de leurs statuts. On a aussi dans la section "Liste" le statut de nos projets où l'on peut avoir "En attente","Commencer","En cours","En pause","Finition","Terminer". Tout cela est en fonction toujours avec le statut et le nombre de tâches. On peut aussi créer des projets en allant dans la seciton "Ajouter" où l'on met le nom du projet, description, date de début et de fin, chef de projet, membres qui participe au projet ainsi qu'une description.
 
 ### Gérer les tâches
 
