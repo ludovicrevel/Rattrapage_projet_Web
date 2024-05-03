@@ -1,0 +1,4 @@
+Lien Github : https://github.com/ludovicrevel/Rattrapage_projet_Web/tree/main
+
+Dans le dossier se trouve deux vidéos de présentation du module, n'hésitez pas à les regarder pour bien comprendre le module.
+Attention les données montrées dans la vidéo ne sont pas présentes dans les bases de données, ce sont des données créées spécialement pour la vidéo de présentation.
